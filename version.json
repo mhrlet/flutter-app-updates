@@ -1,0 +1,28 @@
+{
+  "android": {
+    "version": "1.0.1",
+    "apkUrl": "https://example.com/path/to/your/app.apk",
+    "mandatory": false,
+    "releaseNotes": "Bug fixes and performance improvements."
+  },
+  "desktop": {
+    "windows": {
+      "version": "1.0.1",
+      "downloadUrl": "https://example.com/yourapp_installer.exe",
+      "mandatory": false,
+      "releaseNotes": "Windows-specific improvements."
+    },
+    "macos": {
+      "version": "1.0.1",
+      "downloadUrl": "https://example.com/yourapp_installer.dmg",
+      "mandatory": false,
+      "releaseNotes": "macOS-specific improvements."
+    },
+    "linux": {
+      "version": "1.0.1",
+      "downloadUrl": "https://example.com/yourapp_installer.deb",
+      "mandatory": false,
+      "releaseNotes": "Linux-specific improvements."
+    }
+  }
+}
