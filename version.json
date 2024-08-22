@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
     "mandatory": false, 
-    "releaseNotes": "New features and major improvements."
+    "releaseNotes": "New good features and major improvements."
   },
   "desktop": {
     "windows": {
