@@ -7,7 +7,7 @@
   },
   "desktop": {
     "windows": {
-      "version": "1.4.0",
+      "version": "2.0.0",
       "downloadUrl": "https://www.mlegacytv.com/mlegacy_tv.exe",
       "mandatory": true, 
       "releaseNotes": "New features and major improvements."
