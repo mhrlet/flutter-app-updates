@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
     "mandatory": true, 
     "releaseNotes": "New good features and major improvements."
