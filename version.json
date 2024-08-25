@@ -1,8 +1,8 @@
 {
   "android": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
-    "mandatory": true, 
+    "mandatory": false, 
     "releaseNotes": "Added online Customer support and other fixes"
   },
   "desktop": {
