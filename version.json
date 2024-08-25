@@ -2,7 +2,7 @@
   "android": {
     "version": "2.1.0",
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
-    "mandatory": true, 
+    "mandatory": false, 
     "releaseNotes": "New good features and major improvements."
   },
   "desktop": {
