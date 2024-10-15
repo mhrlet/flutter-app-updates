@@ -4,7 +4,7 @@
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
     "mandatory": true,
     "releaseNotes": "Added online Customer support and other fixes",
-    "versionSupportList": ["2.2.0", "2.3.0", "2.3.1"]  // Allow multiple versions
+    "versionSupportList": ["2.2.0", "2.3.0", "2.4.1"]  // Allow multiple versions
   },
   "desktop": {
     "windows": {
