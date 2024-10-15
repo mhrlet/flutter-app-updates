@@ -2,27 +2,31 @@
   "android": {
     "version": "2.3.1",
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
-    "mandatory": true, 
-    "releaseNotes": "Added online Customer support and other fixes"
+    "mandatory": true,
+    "releaseNotes": "Added online Customer support and other fixes",
+    "versionSupportList": ["2.2.0", "2.3.0", "2.3.1"]  // Allow multiple versions
   },
   "desktop": {
     "windows": {
       "version": "2.3.1",
       "downloadUrl": "https://www.mlegacytv.com/mlegacy_tv.exe",
-      "mandatory": true, 
-      "releaseNotes": "New features and major improvements."
+      "mandatory": true,
+      "releaseNotes": "New features and major improvements.",
+      "versionSupportList": ["2.2.0", "2.3.0", "2.3.1"]
     },
     "macos": {
       "version": "1.4.0",
       "downloadUrl": "https://example.com/yourapp_installer.dmg",
-      "mandatory": true, 
-      "releaseNotes": "New features and major improvements."
+      "mandatory": true,
+      "releaseNotes": "New features and major improvements.",
+      "versionSupportList": ["1.3.0", "1.4.0"]
     },
     "linux": {
       "version": "1.4.0",
       "downloadUrl": "https://example.com/yourapp_installer.deb",
-      "mandatory": true, 
-      "releaseNotes": "New features and major improvements."
+      "mandatory": true,
+      "releaseNotes": "New features and major improvements.",
+      "versionSupportList": ["1.3.0", "1.4.0"]
     }
   }
 }
