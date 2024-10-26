@@ -1,14 +1,14 @@
 {
   "android": {
-    "version": "2.3.1",
+    "version": "2.4.0",
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
-    "mandatory": true,
+    "mandatory": false,
     "releaseNotes": "Added online Customer support and other fixes",
-    "versionSupportList": ["2.2.0", "2.3.0", "2.3.1","2.3.5","2.3.7","2.3.8","2.3.9","2.4.0"]
+    "versionSupportList": ["2.4.0"]
   },
   "desktop": {
     "windows": {
-      "version": "2.3.1",
+      "version": "2.4.0",
       "downloadUrl": "https://www.mlegacytv.com/mlegacy_tv.exe",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
