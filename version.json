@@ -4,7 +4,7 @@
     "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.4.2"]
+    "versionSupportList": ["2.4.2","2.4.3"]
   },
   "desktop": {
     "windows": {
