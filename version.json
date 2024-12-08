@@ -10,7 +10,7 @@
     "windows": {
       "version": "2.4.0",
       "downloadUrl": "https://www.mlegacytv.com/mlegacy_tv.exe",
-      "mandatory": true,
+      "mandatory": false,
       "releaseNotes": "New features and major improvements.",
       "versionSupportList": ["2.4.0","2.3.9"]
     },
