@@ -1,18 +1,18 @@
 {
   "android": {
     "version": "2.4.2",
-    "apkUrl": "https://www.mlegacytv.com/MLegacyTv.apk",
+    "apkUrl": "https://www.mlegacytv.com/https://legacyoffice.github.io/MLegacyTv.apk",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
     "versionSupportList": ["2.4.2","2.4.3"]
   },
   "desktop": {
     "windows": {
-      "version": "2.4.0",
+      "version": "2.5.3",
       "downloadUrl": "https://www.mlegacytv.com/mlegacy_tv.exe",
-      "mandatory": false,
+      "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["2.4.0","2.3.9"]
+      "versionSupportList": ["2.5.3"]
     },
     "macos": {
       "version": "1.4.0",
