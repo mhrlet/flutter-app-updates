@@ -1,20 +1,18 @@
 {
   "android": {
     "version": "2.4.2",
-    "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk
-",
+    "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.4.2","2.4.3"]
+    "versionSupportList": ["2.4.2", "2.4.3"]
   },
   "desktop": {
     "windows": {
       "version": "2.5.5",
-      "downloadUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MlegacyTv_Desktop.exe
-",
+      "downloadUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MlegacyTv_Desktop.exe",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["2.5.3,2.5.5"]
+      "versionSupportList": ["2.5.3", "2.5.5"]
     },
     "macos": {
       "version": "1.4.0",
