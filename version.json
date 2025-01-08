@@ -9,7 +9,7 @@
   "androidUltra": {
     "version": "1.0.0",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacytvUltra.apk",
-    "mandatory": false,
+    "mandatory": true,
     "releaseNotes": "Initial release of MlegacytvUltra",
     "versionSupportList": ["0.0.2"]
   },
