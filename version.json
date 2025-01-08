@@ -11,7 +11,7 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacytvUltra.apk",
     "mandatory": true,
     "releaseNotes": "Initial release of MlegacytvUltra",
-    "versionSupportList": ["1.0.0"]
+    "versionSupportList": ["0.0.2"]
   },
   "desktop": {
     "windows": {
