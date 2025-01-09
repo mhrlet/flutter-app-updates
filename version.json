@@ -7,11 +7,11 @@
     "versionSupportList": ["2.4.2", "2.4.3","2.5.5"]
   },
   "androidUltra": {
-    "version": "0.0.2",
+    "version": "0.0.1",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacytvUltra.apk",
     "mandatory": true,
     "releaseNotes": "Initial release of MlegacytvUltra",
-    "versionSupportList": ["0.0.2"]
+    "versionSupportList": ["0.0.1"]
   },
   "desktop": {
     "windows": {
