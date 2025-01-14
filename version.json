@@ -4,14 +4,18 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.6.0"]
+    "versionSupportList": ["2.6.0"],
+    "maintenance": true,
+    "maintenanceVersions": ["2.6.1"]
   },
   "androidUltra": {
-    "version": "0.0.1",
+    "version": "0.0.3",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacytvUltra.apk",
-    "mandatory": false,
+    "mandatory": true,
     "releaseNotes": "Initial release of MlegacytvUltra",
-    "versionSupportList": ["0.0.3"]
+    "versionSupportList": ["0.0.3"],
+    "maintenance": false,
+    "maintenanceVersions": []
   },
   "desktop": {
     "windows": {
@@ -19,21 +23,27 @@
       "downloadUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MlegacyTv_Desktop.exe",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["2.6.0"]
+      "versionSupportList": ["2.6.0"],
+      "maintenance": true,
+      "maintenanceVersions": ["2.6.0"]
     },
     "macos": {
       "version": "1.4.0",
       "downloadUrl": "https://example.com/yourapp_installer.dmg",
       "mandatory": false,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["1.3.0", "1.4.0"]
+      "versionSupportList": ["1.3.0", "1.4.0"],
+      "maintenance": false,
+      "maintenanceVersions": []
     },
     "linux": {
       "version": "1.4.0",
       "downloadUrl": "https://example.com/yourapp_installer.deb",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["1.3.0", "1.4.0"]
+      "versionSupportList": ["1.3.0", "1.4.0"],
+      "maintenance": false,
+      "maintenanceVersions": []
     }
   }
 }
