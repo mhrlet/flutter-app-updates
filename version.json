@@ -5,8 +5,8 @@
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
     "versionSupportList": ["2.6.0","2.6.1"],
-    "maintenance": false,
-    "maintenanceVersions": ["2.6.1"]
+    "maintenance": true,
+    "maintenanceVersions": ["2.6.2"]
   },
   "androidUltra": {
     "version": "0.0.3",
