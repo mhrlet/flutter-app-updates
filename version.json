@@ -17,6 +17,15 @@
     "maintenance": false,
     "maintenanceVersions": []
   },
+  "ios": {
+    "version": "2.6.0",
+    "downloadUrl": "https://apps.apple.com/yourapp",
+    "mandatory": false,
+    "releaseNotes": "Initial release for iOS",
+    "versionSupportList": ["2.6.0","2.6.1"],
+    "maintenance": true,
+    "maintenanceVersions": ["2.6.1"]
+  },
   "desktop": {
     "windows": {
       "version": "2.6.0",
