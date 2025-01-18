@@ -4,9 +4,9 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.6.0","2.6.1","2.6.2"],
+    "versionSupportList": ["2.6.0","2.6.1","2.6.2","2.6.3"],
     "maintenance": true,
-    "maintenanceVersions": ["2.6.2","2.6.4"]
+    "maintenanceVersions": ["2.6.2","2.6.4","2.6,3"]
   },
   "androidUltra": {
     "version": "0.0.3",
