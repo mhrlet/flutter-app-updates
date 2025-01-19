@@ -4,7 +4,7 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
     "websiteUrl": "https://www.mlegacytv.com/download",
-    "mandatory": true,
+    "mandatory": false,
     "releaseNotes": "Added filter screen, fixed downloads",
     "versionSupportList": ["2.6.0","2.6.1","2.6.2","2.6.3"],
     "maintenance": true,
