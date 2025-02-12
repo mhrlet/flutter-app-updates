@@ -6,9 +6,9 @@
     "websiteUrl": "https://www.mlegacytv.com/download",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.6.0","2.6.1","2.6.2","2.6.9"],
+    "versionSupportList": ["2.6.0", "2.6.1", "2.6.2", "2.6.9"],
     "maintenance": true,
-    "maintenanceVersions": ["2.6.2","2.6.4","2.6.7"]
+    "maintenanceVersions": ["2.6.2", "2.6.4", "2.6.7"]
   },
   "androidUltra": {
     "version": "0.0.3",
@@ -20,11 +20,11 @@
     "maintenanceVersions": []
   },
   "ios": {
-    "version": "2.6.0","2.7.0",
-    "downloadUrl": "www.mlegacytv.com",
+    "version": "2.7.0",
+    "downloadUrl": "https://www.mlegacytv.com",
     "mandatory": false,
     "releaseNotes": "Initial release for iOS",
-    "versionSupportList": ["2.6.0","2.6.1","2.7.0"],
+    "versionSupportList": ["2.6.0", "2.6.1", "2.7.0"],
     "maintenance": true,
     "maintenanceVersions": ["2.6.1"]
   },
