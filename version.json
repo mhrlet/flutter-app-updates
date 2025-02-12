@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": "2.6.0",
+    "version": "2.6.9",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
     "websiteUrl": "https://www.mlegacytv.com/download",
@@ -30,11 +30,11 @@
   },
   "desktop": {
     "windows": {
-      "version": "2.6.0",
+      "version": "2.6.9",
       "downloadUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MlegacyTv_Desktop.exe",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["2.6.0"],
+      "versionSupportList": ["2.6.9"],
       "maintenance": true,
       "maintenanceVersions": ["2.6.0"]
     },
