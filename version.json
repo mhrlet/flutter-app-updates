@@ -20,11 +20,11 @@
     "maintenanceVersions": []
   },
   "ios": {
-    "version": "2.6.0",
+    "version": "2.6.0","2.7.0",
     "downloadUrl": "www.mlegacytv.com",
     "mandatory": false,
     "releaseNotes": "Initial release for iOS",
-    "versionSupportList": ["2.6.0","2.6.1"],
+    "versionSupportList": ["2.6.0","2.6.1","2.7.0"],
     "maintenance": true,
     "maintenanceVersions": ["2.6.1"]
   },
