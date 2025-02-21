@@ -17,7 +17,7 @@
     "releaseNotes": "Initial release of MlegacytvUltra",
     "versionSupportList": ["0.0.2"],
     "maintenance": false,
-    "maintenanceVersions": []
+    "maintenanceVersions": ["0.0.5"]
   },
   "androidUltra2": {
     "version": "0.0.4",
