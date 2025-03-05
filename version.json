@@ -17,7 +17,7 @@
     "releaseNotes": "Imporoved ui and made it smoother , unisntall old version to use this version",
     "versionSupportList": ["0.0.2","0.0.4","0.0.5"],
     "maintenance": false,
-    "maintenanceVersions": ["0.0.5"]
+    "maintenanceVersions": []
   },
   "androidUltra2": {
     "version": "0.0.4",
@@ -26,7 +26,7 @@
     "releaseNotes": "Initial release of MlegacytvUltra",
     "versionSupportList": ["0.0.4"],
     "maintenance": false,
-    "maintenanceVersions": ["0.0.5"]
+    "maintenanceVersions": []
   },
   "ios": {
     "version": "2.7.0",
