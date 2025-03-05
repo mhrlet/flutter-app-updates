@@ -25,7 +25,7 @@
     "mandatory": true,
     "releaseNotes": "Initial release of MlegacytvUltra",
     "versionSupportList": ["0.0.4"],
-    "maintenance": true,
+    "maintenance": false,
     "maintenanceVersions": ["0.0.5"]
   },
   "ios": {
