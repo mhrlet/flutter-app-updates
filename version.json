@@ -14,8 +14,8 @@
     "version": "0.0.4",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
-    "releaseNotes": "Imporoved ui and made it smoother , unisntall old version to use this version",
-    "versionSupportList": ["0.0.2","0.0.4","0.0.5"],
+    "releaseNotes": "Improved UI and made it smoother. Uninstall the old version to use this version.",
+    "versionSupportList": ["0.0.2", "0.0.4", "0.0.5"],
     "maintenance": false,
     "maintenanceVersions": []
   },
