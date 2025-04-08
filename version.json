@@ -7,7 +7,7 @@
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
     "versionSupportList": ["2.7.5","2.7.7"],
-    "maintenance": false,
+    "maintenance": true,
     "maintenanceVersions": ["2.7.7"]
   },
   "androidUltra": {
