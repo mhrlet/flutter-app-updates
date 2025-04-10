@@ -1,13 +1,13 @@
 {
   "android": {
-    "version": "2.7.5",
+    "version": "2.7.7",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlegacytvwatch.mlegacytvwatch",
     "websiteUrl": "https://www.mlegacytv.com/download",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.7.5","2.7.7"],
-    "maintenance": true,
+    "versionSupportList": ["2.7.7"],
+    "maintenance": false,
     "maintenanceVersions": ["2.7.7"]
   },
   "androidUltra": {
