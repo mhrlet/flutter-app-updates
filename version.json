@@ -39,11 +39,11 @@
   },
   "desktop": {
     "windows": {
-      "version": "2.7.7",
+      "version": "2.7.9",
       "downloadUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MlegacyTv_Desktop.exe",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["2.7.7"],
+      "versionSupportList": ["2.7.9"],
       "maintenance": true,
       "maintenanceVersions": ["2.6.0"]
     },
