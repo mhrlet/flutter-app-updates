@@ -2,7 +2,7 @@
   "android": {
     "version": "2.8.3",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mlegacytvwatch.mlegacytvwatch",
+    "playStoreUrl": "https://www.mlegacytv.com/download",
     "websiteUrl": "https://www.mlegacytv.com/download",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
