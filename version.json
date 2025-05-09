@@ -6,7 +6,7 @@
     "websiteUrl": "https://www.mlegacytv.com/download",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.7.7","2.8.3"],
+    "versionSupportList": ["2.7.7","2.8.3","0.0.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
@@ -15,7 +15,7 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": false,
     "releaseNotes": "Improved UI and made it smoother. Uninstall the old version to use this version.",
-    "versionSupportList": ["0.0.2", "0.0.4", "0.0.5"],
+    "versionSupportList": ["0.0.2", "0.0.4", "0.0.5","0.0.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
