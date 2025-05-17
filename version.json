@@ -6,7 +6,7 @@
     "websiteUrl": "https://www.mlegacytv.com/download",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.7.7","2.8.3","0.0.7"],
+    "versionSupportList": ["2.8.3"],
     "maintenance": false,
     "maintenanceVersions": []
   },
