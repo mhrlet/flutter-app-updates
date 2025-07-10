@@ -11,20 +11,20 @@
     "maintenanceVersions": []
   },
   "androidUltra": {
-    "version": "0.1.0",
+    "version": "0.1.2",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
-    "mandatory": true,
-    "releaseNotes": "this version is out of service, kindly update, use link below to get new vsrsion",
-    "versionSupportList": ["0.1.0","0.1.1"],
+    "mandatory": false,
+    "releaseNotes": "fixed download , update please",
+    "versionSupportList": ["0.1.2"],
     "maintenance": false,
     "maintenanceVersions": []
   },
   "androidUltra2": {
-    "version": "0.1.0",
+    "version": "0.1.2",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
-    "mandatory": true,
-    "releaseNotes": "this version is off service, kindly update by link for latest improved update",
-    "versionSupportList": ["0.1.0","0.1.1"],
+    "mandatory": false,
+    "releaseNotes": "fixed download , upda2t please",
+    "versionSupportList": ["0.1.2"],
     "maintenance": false,
     "maintenanceVersions": []
   },
