@@ -15,7 +15,7 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
     "releaseNotes": "fixed download , update please",
-    "versionSupportList": ["0.1.6"],
+    "versionSupportList": ["0.1.6","0.1.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
@@ -24,7 +24,7 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
     "releaseNotes": "fixed download , upda2t please",
-    "versionSupportList": ["0.1.6"],
+    "versionSupportList": ["0.1.6","0.1.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
