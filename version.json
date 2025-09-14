@@ -6,25 +6,25 @@
     "websiteUrl": "https://www.mlegacytv.com/download",
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.8.3","2.8.7"],
+    "versionSupportList": ["2.8.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
   "androidUltra": {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
     "releaseNotes": "fixed download , update please",
-    "versionSupportList": ["0.1.6","0.1.7"],
+    "versionSupportList": ["0.1.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
   "androidUltra2": {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
     "releaseNotes": "fixed download , upda2t please",
-    "versionSupportList": ["0.1.6","0.1.7"],
+    "versionSupportList": ["0.1.7"],
     "maintenance": false,
     "maintenanceVersions": []
   },
