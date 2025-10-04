@@ -15,7 +15,7 @@
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": false,
     "releaseNotes": "fixed download , update please",
-    "versionSupportList": ["0.1.8"],
+    "versionSupportList": ["0.1.8, 0.1.9"],
     "maintenance": false,
     "maintenanceVersions": []
   },
