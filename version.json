@@ -43,7 +43,7 @@
       "downloadUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MlegacyTv_Desktop.exe",
       "mandatory": true,
       "releaseNotes": "New features and major improvements.",
-      "versionSupportList": ["2.8.7", "2.8.9","2.9.0"],
+      "versionSupportList": ["2.8.7", "2.8.9","2.9.0","2.9.2"],
       "maintenance": true,
       "maintenanceVersions": ["2.6.0"]
     },
