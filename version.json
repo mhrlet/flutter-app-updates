@@ -7,8 +7,8 @@
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
     "versionSupportList": ["2.9.2"],
-    "maintenance": false,
-    "maintenanceVersions": ["2.9.2"]
+    "maintenance": true,
+    "maintenanceVersions": ["1.0.0"]
   },
   "androidUltra": {
     "version": "0.1.9",
