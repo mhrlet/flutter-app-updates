@@ -9,7 +9,7 @@
     "releaseNotes": "Added filter screen, fixed downloads",
     "versionSupportList": ["2.9.2","1.0.0","1.0.1"],
     "maintenance": true,
-    "maintenanceVersions": ["1.0.0"]
+    "maintenanceVersions": ["1.0.1"]
   },
   "androidUltra": {
     "version": "0.1.9",
