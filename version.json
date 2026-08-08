@@ -2,8 +2,8 @@
   "android": {
     "version": "0.2.9",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
-    "playStoreUrl": "https://www.mlegacytv.com/download",
-    "websiteUrl": "https://www.mlegacytv.com/download",
+    "playStoreUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
+    "websiteUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "notificationsDisabledVersions": [],
     "mandatory": true,
     "releaseNotes": "Fixed download, update please",
@@ -15,6 +15,8 @@
   "androidUltra": {
     "version": "0.2.9",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
+    "playStoreUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
+    "websiteUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
     "releaseNotes": "Fixed download, update please",
     "versionSupportList": ["0.2.9"],
@@ -25,6 +27,8 @@
   "androidUltra2": {
     "version": "0.2.9",
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
+    "playStoreUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
+    "websiteUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTvUltra.apk",
     "mandatory": true,
     "releaseNotes": "Fixed download, update please",
     "versionSupportList": ["0.2.9"],
