@@ -1,6 +1,7 @@
 {
   "android": {
-    "version": "2.9.5",
+    "version": "2.9.19",
+    "versionCode": 29,
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "playStoreUrl": "https://www.mlegacytv.com/download",
     "websiteUrl": "https://www.mlegacytv.com/download",
