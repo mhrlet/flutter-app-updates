@@ -8,7 +8,7 @@
     "notificationsDisabledVersions": [],
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2],
+    "versionSupportList": ["2"],
     "maintenance": true,
     "maintenanceVersions": []
   },
