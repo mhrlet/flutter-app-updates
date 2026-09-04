@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": "2.9.20",
+    "version": "2",
     "versionCode": 30,
     "apkUrl": "https://raw.githubusercontent.com/LegacyOffice/apps_Mlegacy/main/MLegacyTv.apk",
     "playStoreUrl": "https://www.mlegacytv.com/download",
@@ -8,7 +8,7 @@
     "notificationsDisabledVersions": [],
     "mandatory": true,
     "releaseNotes": "Added filter screen, fixed downloads",
-    "versionSupportList": ["2.9.18","2.9.6","2.9.19","2.9.20"],
+    "versionSupportList": ["2],
     "maintenance": true,
     "maintenanceVersions": []
   },
